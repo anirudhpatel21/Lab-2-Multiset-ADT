@@ -3,5 +3,6 @@ public class Main {
         // TODO complete this psvm main method to replicate the timing experiment from adts.py.
         //      Note: this will be client code of the various other classes needing to be written.
         // Paulaner Weissebier
+    System.out.println("THIS IS SPARTA!");
     }
 }
